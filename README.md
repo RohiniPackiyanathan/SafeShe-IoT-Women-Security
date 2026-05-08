@@ -1,7 +1,5 @@
-# SafeShe-IoT-Women-Security
-IoT Enabled Women Security and Well-being System using Arduino and Sensors
 # SafeShe – IoT Enabled Women Security and Well-being System
-
+IoT Enabled Women Security and Well-being System using Arduino and Sensors
 ## Project Overview
 SafeShe is an IoT-based women safety device designed to provide emergency alerts and location tracking during dangerous situations.
 
